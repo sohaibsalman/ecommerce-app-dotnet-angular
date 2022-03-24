@@ -84,3 +84,42 @@ Similarly, I have Infrastructure project which holds all repository, interface i
 
 Every effort applied to make this project complete and accurate to the topic, but no warranty is implied. Any implementation in this project are MY OWN and also borrowed from best practices segment. ALL content presented AS-IS, for learning purposes only. Author will not be liable for any loss or damages arising from the information presented in this project. This also involves stripe implementation. Just use test card as explained in readme not actual card. Incase, if any amount get deducted from actual card, author won't be responsible for any loss or damage. 
 
+## Client
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1. You can cd into client folder and do npm i to install the packages then ng serve.
+
+## Development server
+
+This project is built using asp.net core 3.1. you can cd into API directory and say dotnet restore and  then dotnet watch run.
+
+## Server Side Technologies
+
+- .Net Core
+- Generic Repository Patterns
+- Unit of Work Pattern
+- Specification Pattern
+- Azure Redis Cache
+- Sqlite during devlopment
+- Mysql in Production
+- Swagger
+- Stripe Implementation
+
+## Client Side Technologies
+
+- Angular 9
+- Bootstrap 4
+- ngx-bootstrap
+- Font Awesome
+- Lazy Loading
+- Caching
+- RXJS
+- Design Components
+
+
+## About the project
+
+This project is divided into branches. Master branch is development cut and production branch is production cut. In order to understand best practices and differences between them try comparing both.
+
+## Mobile UX
+
+Currently this project is not mobile friendly as I didn't get time to make it mobile compatible. In case, anyone interested, do submit PR.
