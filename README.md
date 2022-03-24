@@ -51,3 +51,15 @@ I have shipped two branches in Github. Master branch is meant for development cu
 -	Accepting payments via Stripe using the new EU standards for 3D secure
 -	Publishing the app on Azure
 -	And many more things
+
+## How Project is structured 
+
+Below, I have Pasted the high level glimpse project structure.
+
+![14th](https://user-images.githubusercontent.com/3886381/80864879-4f869780-8ca3-11ea-80b1-01481a1c895e.png)
+
+APIs Structure goes like
+
+![16th](https://user-images.githubusercontent.com/3886381/80864882-51505b00-8ca3-11ea-81aa-260347d156ed.png)
+
+Here, you will get Custom middleware implementation, extension methods, DTOs, Custom Error Handling and few Helper methods as well.
