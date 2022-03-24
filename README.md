@@ -71,3 +71,11 @@ Angular Project looks like
 Here is the detailed feature-wise detailing of angular project.
 
 ![18th](https://user-images.githubusercontent.com/3886381/80864885-52818800-8ca3-11ea-9cf9-5ff65da70210.png)
+
+Then, we have Core implementation of project. This holds design pattern implementation like show below.
+
+![19th](https://user-images.githubusercontent.com/3886381/80864886-52818800-8ca3-11ea-8e1c-b1da3a1b15f5.png)
+
+Similarly, I have Infrastructure project which holds all repository, interface implementation. This also holds the seed project and data context as well.
+
+![20th](https://user-images.githubusercontent.com/3886381/80864887-531a1e80-8ca3-11ea-9fb2-651e4494a185.png)
