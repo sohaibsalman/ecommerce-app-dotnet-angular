@@ -79,3 +79,8 @@ Then, we have Core implementation of project. This holds design pattern implemen
 Similarly, I have Infrastructure project which holds all repository, interface implementation. This also holds the seed project and data context as well.
 
 ![20th](https://user-images.githubusercontent.com/3886381/80864887-531a1e80-8ca3-11ea-9fb2-651e4494a185.png)
+
+## Warning and Disclaimer
+
+Every effort applied to make this project complete and accurate to the topic, but no warranty is implied. Any implementation in this project are MY OWN and also borrowed from best practices segment. ALL content presented AS-IS, for learning purposes only. Author will not be liable for any loss or damages arising from the information presented in this project. This also involves stripe implementation. Just use test card as explained in readme not actual card. Incase, if any amount get deducted from actual card, author won't be responsible for any loss or damage. 
+
